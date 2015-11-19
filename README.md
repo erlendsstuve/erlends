@@ -1,2 +1,2 @@
 # erlends
-Nettside Erlend
+Erlend sin nettside
